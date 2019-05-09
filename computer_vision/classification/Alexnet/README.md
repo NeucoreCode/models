@@ -29,11 +29,11 @@ Image classification inference model
 
 ##### Original Network Link:
 
-https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet
+
 
 ##### Pre-trained Model Link:
 
-http://dl.caffe.berkeleyvision.org/bvlc_alexnet.caffemodel
+
 
 
 ##### Input Data Description:
