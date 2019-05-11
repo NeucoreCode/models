@@ -9,6 +9,7 @@ computer_vision
             |--CMakeLists.txt   
             |--src
             |--include
+            |--space_shuttle.jpg
 ```
 *******************************************************************************
 
@@ -17,6 +18,7 @@ computer_vision
 
 
 Alexnet:
+
 I 812: 0.5358559489250183
 
 I 404: 0.28682297468185425
