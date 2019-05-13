@@ -36,20 +36,11 @@ I 657: 0.016181446611881256
 
 Image classification inference model
 
-##### Original Network Link:
-
-
-
-##### Pre-trained Model Link:
-
-
 
 
 ##### Input Data Description:
 
-The input image should be resized to 227*227 pixels, and padding to 256*224 pixels, YUV420SP_U8.
+The input image should be resized to 227*227 pixels.
 
-##### Out Data Description:
 
-The pre-trained model is trained for image recognition，the result follow 1000 lables of ImageNet.
 
