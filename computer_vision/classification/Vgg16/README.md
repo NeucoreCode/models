@@ -9,7 +9,8 @@ computer_vision
             |--CMakeLists.txt   
             |--src
             |--include
-            |--
+            |--goldfish.jpg
+            |--space_shuttle.jpg
 ```
 *******************************************************************************
 
@@ -26,18 +27,11 @@ computer_vision
 
 Image classification inference model
 
-##### Original Network Link:
-
-
-
-##### Pre-trained Model Link:
-
-
 
 
 ##### Input Data Description:
 
-The input image should be resized to 227*227 pixels, and padding to 256*224 pixels, YUV420SP_U8.
+The input image should be resized to 224*224 pixels.
 
 ##### Out Data Description:
 
