@@ -5,7 +5,7 @@ computer_vision
    |-- classification   
        |-- Alexnet
             |--README.md            
-            |--vgg16    
+            |--res50   
             |--CMakeLists.txt   
             |--src
             |--include
