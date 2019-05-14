@@ -4,9 +4,9 @@
 ```
 computer_vision
    |-- classification   
-       |-- inceptionV1
+       |-- inceptionV2
             |--README.md            
-            |--inceptionV1    
+            |--inceptionV2   
             |--CMakeLists.txt   
             |--src
             |--include
