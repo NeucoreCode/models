@@ -9,7 +9,7 @@ computer_vision
             |--CMakeLists.txt   
             |--src
             |--include
-            |--space_shuttle.jpg
+            |--goldfish.jpeg
 ```
 *******************************************************************************
        test results:
