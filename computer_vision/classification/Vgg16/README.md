@@ -10,7 +10,6 @@ computer_vision
             |--src
             |--include
             |--goldfish.jpeg
-            |--space_shuttle.jpg
 ```
 *******************************************************************************
 
