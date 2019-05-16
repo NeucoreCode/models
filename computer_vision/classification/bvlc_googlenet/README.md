@@ -31,7 +31,7 @@ Average 8.00ms or 8307.00us
 
  --- Top5 ---
  
-  1: 0.999512
+  1: 0.999512  ( imagenet中1为goldfish类 )
   
 963: 0.000203
 
