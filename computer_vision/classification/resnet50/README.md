@@ -3,13 +3,13 @@
 ```
 computer_vision
    |-- classification   
-       |-- Alexnet
+       |-- resnet40
             |--README.md            
-            |--res50   
+            |--resnet50   
             |--CMakeLists.txt   
             |--src
             |--include
-            |--
+            |--goldfish.jpeg
 ```
 *******************************************************************************
 
@@ -28,6 +28,7 @@ vxProcessGraph execution time:
 Total   29ms or 29962us
 
 Average 29.00ms or 29962.00us
+
 
  --- Top5 ---
  
@@ -51,14 +52,9 @@ Image classification inference model
 
 
 
-##### Pre-trained Model Link:
-
-
-
-
 ##### Input Data Description:
 
-The input image should be resized to 227*227 pixels, and padding to 256*224 pixels, YUV420SP_U8.
+The input image should be resized to 224*224 pixels.
 
 ##### Out Data Description:
 
