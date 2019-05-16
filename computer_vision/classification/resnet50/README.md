@@ -13,7 +13,7 @@ computer_vision
 ```
 *******************************************************************************
 
-  test results:
+                test results:
 
 Verify...
 
@@ -49,7 +49,6 @@ Average 29.00ms or 29962.00us
 Image classification inference model
 
 ##### Original Network Link:
-
 
 
 ##### Input Data Description:
