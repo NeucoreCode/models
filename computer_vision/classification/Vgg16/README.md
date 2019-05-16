@@ -3,7 +3,7 @@
 ```
 computer_vision
    |-- classification   
-       |-- Alexnet
+       |-- vgg16
             |--README.md            
             |--vgg16    
             |--CMakeLists.txt   
