@@ -3,7 +3,7 @@
 ```
 computer_vision
    |-- classification   
-       |-- resnet40
+       |-- resnet50
             |--README.md            
             |--resnet50   
             |--CMakeLists.txt   
