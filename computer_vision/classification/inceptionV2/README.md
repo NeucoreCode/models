@@ -16,13 +16,32 @@ computer_vision
 
   test results:
 
-[TRAINER]Running 1 Testing Steps
+Verify...
 
-[TRAINER]TEST SAMPLE[[2/2]] TIME[[0.405022]] TOP1 accuracy rate 1.00 (Error num: 0/0)
+Verify Graph: 959ms or 959974us
 
-[TRAINER]Validation Top1 Accuracy: 100.0%
+Start run graph [1] times...
 
-[TRAINER]Validation Top5 Accuracy: 100.0%
+Run the 1 time: 10ms or 10227us
+
+vxProcessGraph execution time:
+
+Total   10ms or 10284us
+
+Average 10.00ms or 10284.00us
+
+ --- Top5 ---
+ 
+917: 27.000000
+
+410: 26.500000
+
+508: 24.500000
+
+401: 17.000000
+
+532: 17.000000
+
 
 
 *******************************************************************************
